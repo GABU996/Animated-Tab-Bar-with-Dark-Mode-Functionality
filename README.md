@@ -14,7 +14,7 @@ This React Native app showcases a custom animated tab bar with smooth dark mode 
 - React Native
 - Expo
 - React Navigation
-- React Native Reanimated
+- React-Native Reanimated
 - React Native Paper
 - React Native Vector Icons
 
@@ -28,10 +28,6 @@ This React Native app showcases a custom animated tab bar with smooth dark mode 
 
 Navigate between screens using the animated tab bar. Toggle dark mode in the Settings screen to see the smooth transition effect.
 
-## Demo
+## Demonstration
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/af10d35e-f1c8-4a3e-8b42-14712fb08a97">
-    <img src="https://github.com/user-attachments/assets/af10d35e-f1c8-4a3e-8b42-14712fb08a97" alt="Demo Video" width="600">
-  </a>
-</p>
+https://github.com/user-attachments/assets/af10d35e-f1c8-4a3e-8b42-14712fb08a97
